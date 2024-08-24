@@ -1,0 +1,218 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url(../fonts/icomoon.eot);
+  src: url(../fonts/icomoon.eot) format("embedded-opentype"),
+      url(../fonts/icomoon.ttf) format("truetype"),
+      url(../fonts/icomoon.woff) format("woff"),
+      url(../fonts/icomoon.svg) format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block
+}
+
+[class*=" icon-"],
+[class^=icon-] {
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.icon-alert:before {
+  content: "\e92d";
+}
+
+.icon-quote:before {
+  content: "\e90c";
+}
+
+.icon-air-pollution:before {
+  content: "\e90d";
+}
+
+.icon-air-purifier:before {
+  content: "\e90e";
+}
+
+.icon-alarm-system:before {
+  content: "\e90f";
+}
+
+.icon-automatic-doors:before {
+  content: "\e910";
+}
+
+.icon-burglar:before {
+  content: "\e911";
+}
+
+.icon-cctv-camera:before {
+  content: "\e912";
+}
+
+.icon-cctv-camera2:before {
+  content: "\e913";
+}
+
+.icon-control-panel:before {
+  content: "\e914";
+}
+
+.icon-data-encryption:before {
+  content: "\e915";
+}
+
+.icon-detector:before {
+  content: "\e916";
+}
+
+.icon-door-lock:before {
+  content: "\e917";
+}
+
+.icon-emergency-sign:before {
+  content: "\e918";
+}
+
+.icon-fire-alarm:before {
+  content: "\e919";
+}
+
+.icon-home-automation:before {
+  content: "\e91a";
+}
+
+.icon-intercom:before {
+  content: "\e91b";
+}
+
+.icon-intrusion:before {
+  content: "\e91c";
+}
+
+.icon-keypad:before {
+  content: "\e91d";
+}
+
+.icon-monitoring:before {
+  content: "\e91e";
+}
+
+.icon-motion-sensor:before {
+  content: "\e91f";
+}
+
+.icon-notification:before {
+  content: "\e920";
+}
+
+.icon-padlock:before {
+  content: "\e921";
+}
+
+.icon-security-scan:before {
+  content: "\e922";
+}
+
+.icon-smart-control:before {
+  content: "\e923";
+}
+
+.icon-smart-light:before {
+  content: "\e924";
+}
+
+.icon-sos:before {
+  content: "\e925";
+}
+
+.icon-surveillance:before {
+  content: "\e926";
+}
+
+.icon-surveillance2:before {
+  content: "\e927";
+}
+
+.icon-surveillance3:before {
+  content: "\e928";
+}
+
+.icon-temperature:before {
+  content: "\e929";
+}
+
+.icon-window:before {
+  content: "\e92a";
+}
+
+.icon-check:before {
+  content: "\e90a";
+  font-size: 70%;
+}
+
+.icon-close:before {
+  content: "\e90b";
+  font-size: 70%;
+}
+
+.icon-download:before {
+  content: "\e909";
+}
+
+.icon-horizontal-dots:before {
+  content: "\e908";
+  font-size: 30%;
+}
+
+.icon-arrow-left:before {
+  content: "\e900";
+}
+
+.icon-arrow-right:before {
+  content: "\e901";
+}
+
+.icon-arrow-left2:before {
+  content: "\e906";
+}
+
+.icon-arrow-right2:before {
+  content: "\e907";
+}
+
+.icon-icon-arrow-left3:before {
+  content: "\e92b";
+}
+
+.icon-icon-arrow-right3:before {
+  content: "\e92c";
+}
+
+.icon-cart:before {
+  content: "\e902";
+}
+
+.icon-email:before {
+  content: "\e903";
+}
+
+.icon-phone:before {
+  content: "\e904";
+}
+
+.icon-search:before {
+  content: "\e905";
+}
+
+.logo{
+  width: fit-content;
+  height: 100px;
+  padding: 5px;
+  margin-left: 35px;
+}
